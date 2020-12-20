@@ -1,0 +1,8 @@
+#ifndef ___MYLIB_VERSION_H
+#define ___MYLIB_VERSION_H
+
+#define MyPackage_VERSION_MAJOR @MyPackage_VERSION_MAJOR@
+#define MyPackage_VERSION_MINOR @MyPackage_VERSION_MINOR@
+#define MyPackage_VERSION_PATCH @MyPackage_VERSION_PATCH@
+
+#endif // ___MYLIB_VERSION_H
